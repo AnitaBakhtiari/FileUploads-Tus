@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Bread">
+      <HintPath>..\..\..\source\repos\Trellis\Bread\obj\Debug\net6.0\Bread.dll</HintPath>
+    </Reference>
+    <Reference Include="Cache">
+      <HintPath>..\..\..\source\repos\Trellis\Cache\obj\Debug\net6.0\Cache.dll</HintPath>
+    </Reference>
+    <Reference Include="Context">
+      <HintPath>..\..\..\source\repos\Trellis\Context\obj\Debug\net6.0\Context.dll</HintPath>
+    </Reference>
+    <Reference Include="Core">
+      <HintPath>..\..\..\source\repos\Trellis\Core\obj\Debug\net6.0\Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DataCore">
+      <HintPath>..\..\..\source\repos\Trellis\Data-Core\obj\Debug\net6.0\DataCore.dll</HintPath>
+    </Reference>
+    <Reference Include="DataSql">
+      <HintPath>..\..\..\source\repos\Trellis\Data-Sql\obj\Debug\net6.0\DataSql.dll</HintPath>
+    </Reference>
+    <Reference Include="Http">
+      <HintPath>..\..\..\source\repos\Trellis\Http\obj\Debug\net6.0\Http.dll</HintPath>
+    </Reference>
+    <Reference Include="OAuth-Keycloak">
+      <HintPath>..\..\..\source\repos\Trellis\OAuth-Keycloak\obj\Debug\net6.0\OAuth-Keycloak.dll</HintPath>
+    </Reference>
+    <Reference Include="Util">
+      <HintPath>..\..\..\source\repos\Trellis\Util\obj\Debug\net6.0\Util.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

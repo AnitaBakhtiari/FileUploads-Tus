@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\GameCenter\Media\obj\Debug\net6.0\Media.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GameCenter\Media\obj\Debug\net6.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\GameCenter\Media\obj\Debug\net6.0\Media.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\GameCenter\Media\obj\Debug\net6.0\Media.AssemblyInfo.cs
+C:\Users\PC\source\repos\GameCenter\Media\obj\Debug\net6.0\Media.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GameCenter\Media\obj\Debug\net6.0\Media.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\source\repos\GameCenter\Media\obj\Debug\net6.0\Media.MvcApplicationPartsAssemblyInfo.cache
